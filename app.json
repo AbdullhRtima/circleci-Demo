@@ -1,0 +1,17 @@
+{
+  "name": "circleci-demo",
+  "displayName": "circleci-demo",
+  "expo": {
+    "name": "circleci-demo",
+    "slug": "circleci-demo",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
